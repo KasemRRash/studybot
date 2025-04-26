@@ -19,6 +19,8 @@ PDF-Export: Aufgaben und Notizen exportieren.
 
 Dynamische Chat-Anzeige: Neue KI-Antworten werden live aktualisiert.
 
+
+
 **Technologien**
 Frontend:
 HTML
@@ -33,9 +35,13 @@ Extras:
 Lokale Datensicherung im Browser
 Responsive Design
 
+
+
 **Hosting:**
 Deployment auf PythonAnywhere
 Lokale Nutzung ebenfalls möglich
+
+
 
 **Ziel**
 StudyBot entstand als Studienprojekt zur Vertiefung meiner Kenntnisse in:
