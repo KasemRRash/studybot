@@ -47,6 +47,7 @@ KI-Integration (Gemini-API)
 
 📷 
 -(Screenshots vom Projekt findest du hier auf meiner Webseite > https://kasem-rashrash.com/studybot.html).
+
 -Link zur Anwendung: https://kasemrr.pythonanywhere.com/
 
 
