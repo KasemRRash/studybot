@@ -2,6 +2,10 @@
 StudyBot - Lernplaner &amp; KI
 Eine leichte, schnelle Anwendung zum Notizen machen, Kalender verwalten und fokussierten Lernen, kombiniert mit einem eigenen KI-Chatbot. Alles, was du brauchst, übersichtlich an einem Ort!
 
+![image](https://github.com/user-attachments/assets/b2d1d968-23a5-4fdb-90b3-991416475a28)
+
+
+
 **Features**
 KI-Chat: Fragen stellen und Antworten von einer angebundenen KI erhalten.
 
@@ -41,10 +45,9 @@ Backend-Programmierung (Python Flask)
 KI-Integration (Gemini-API)
 
 
-📷 Screenshots
-(Screenshots vom Projekt findest du hier auf meiner Webseite > https://kasem-rashrash.com/studybot.html).
-![image](https://github.com/user-attachments/assets/31608cc4-3695-4c29-b9e7-10d6983bca2a)
-
+📷 
+-(Screenshots vom Projekt findest du hier auf meiner Webseite > https://kasem-rashrash.com/studybot.html).
+-Link zur Anwendung: https://kasemrr.pythonanywhere.com/
 
 
 
