@@ -2,7 +2,8 @@
 StudyBot - Lernplaner &amp; KI
 Eine leichte, schnelle Anwendung zum Notizen machen, Kalender verwalten und fokussierten Lernen, kombiniert mit einem eigenen KI-Chatbot. Alles, was du brauchst, übersichtlich an einem Ort!
 
-![image](https://github.com/user-attachments/assets/b2d1d968-23a5-4fdb-90b3-991416475a28)
+![image](https://github.com/user-attachments/assets/e92962e5-d5a0-48bd-b6de-fab9fb702a8f)
+
 
 
 
