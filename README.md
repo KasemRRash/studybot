@@ -1,72 +1,62 @@
-# studybot
-StudyBot - Lernplaner &amp; KI
-Eine leichte, schnelle Anwendung zum Notizen machen, Kalender verwalten und fokussierten Lernen, kombiniert mit einem eigenen KI-Chatbot. Alles, was du brauchst, übersichtlich an einem Ort!
+# StudyBot – Dein smarter Lernbegleiter mit KI
 
-![image](https://github.com/user-attachments/assets/e92962e5-d5a0-48bd-b6de-fab9fb702a8f)
+**StudyBot** ist eine schlanke, schnelle und intuitive Webanwendung für effektives Lernen, Aufgabenmanagement und Kalenderplanung – kombiniert mit einem integrierten KI-Chatbot.  
+Alle Tools, die du brauchst, übersichtlich an einem Ort.
 
+![StudyBot Vorschau](https://github.com/user-attachments/assets/e92962e5-d5a0-48bd-b6de-fab9fb702a8f)
 
+---
 
+## Funktionen
 
-**Features**
+- KI-Chat: Stelle Fragen und erhalte Antworten von einer angebundenen KI (Gemini API).
+- To-Do-Listen: Aufgaben erstellen, verwalten und als erledigt markieren.
+- Kalender: Termine planen und behalten den Überblick.
+- Lern-Timer: Countdown-Timer mit Sound für fokussierte Lernphasen.
+- PDF-Export: Aufgaben und Notizen können als PDF gespeichert werden.
+- Dynamische Chat-Anzeige: Neue KI-Antworten erscheinen in Echtzeit.
 
-KI-Chat: Fragen stellen und Antworten von einer angebundenen KI erhalten.
+---
 
-To-Do-Listen: Aufgaben erstellen, verwalten und abhaken.
+## Technologien
 
-Kalenderverwaltung: Termine planen und im Blick behalten.
+**Frontend:**
+- HTML
+- Tailwind CSS
+- JavaScript (inkl. Markdown-Parser für Chatantworten)
 
-Lern-Timer: Countdown-Timer mit Sound für fokussierte Lernsessions.
+**Backend:**
+- Python (Flask)
+- Anbindung an die Gemini-API für KI-generierte Antworten
 
-PDF-Export: Aufgaben und Notizen exportieren.
+**Extras:**
+- Lokale Datenspeicherung im Browser (kein Account erforderlich)
+- Responsives Design für Desktop und Mobilgeräte
 
-Dynamische Chat-Anzeige: Neue KI-Antworten werden live aktualisiert.
+---
 
+## Nutzung
 
+- lokal nutzbar – einfach klonen und mit Python starten
 
-**Technologien**
+---
 
-Frontend:
+## Ziel & Motivation
 
-HTML
+StudyBot entstand im Rahmen eines Studienprojekts zur Vertiefung meiner Kenntnisse in den Bereichen:
 
-Tailwind CSS
+- Webentwicklung (HTML, CSS, JavaScript)
+- Backend-Programmierung mit Python (Flask)
+- Integration von KI-Diensten (z. B. Gemini-API)
 
-JavaScript (mit Markdown-Parsing für Chatantworten)
+---
 
+## Installation (lokal)
 
-
-Backend:
-Python Flask-Server
-
-Anbindung an die Gemini-API für KI-generierte Antworten
-
-
-Extras:
-
-Lokale Datensicherung im Browser
-
-Responsive Design
-
-
-
-
-**Hosting:**
-
-Deployment auf PythonAnywhere
-
-Lokale Nutzung ebenfalls möglich
-
-
-
-**Ziel**
-
-StudyBot entstand als Studienprojekt zur Vertiefung meiner Kenntnisse in:
-
-Webentwicklung (HTML, CSS, JS)
-
-Backend-Programmierung (Python Flask)
-
-KI-Integration (Gemini-API)
+1. Repository klonen:
+   ```bash
+   git clone https://github.com/KasemRRash/studybot.git
+   cd studybot
 
 
 📷 
