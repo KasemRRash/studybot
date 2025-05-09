@@ -57,7 +57,7 @@ StudyBot entstand im Rahmen eines Studienprojekts zur Vertiefung meiner Kenntnis
    ```bash
    git clone https://github.com/KasemRRash/studybot.git
    cd studybot
-
+   python chatbot.py
 
 📷 
 -(Screenshots vom Projekt findest du hier auf meiner Webseite > https://kasem-rashrash.com/studybot.html).
